@@ -1,0 +1,2 @@
+# PixivNewIllustrationNotificationBOT
+Pixiv关注的人上传新插图通知机器人
